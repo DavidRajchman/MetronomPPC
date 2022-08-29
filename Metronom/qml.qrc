@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>num_template.qml</file>
+        <file>color_sound_changer.qml</file>
+        <file>ManualTempoClicker.qml</file>
+        <file>sounds/click_2.wav</file>
+        <file>sounds/hat_1.wav</file>
+        <file>sounds/hat_2.wav</file>
+        <file>sounds/kick_1.wav</file>
+        <file>sounds/kick_2.wav</file>
+        <file>sounds/snare_1.wav</file>
+    </qresource>
+</RCC>
